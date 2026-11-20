@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "salary": {
+    "A": 15035,
+    "B": 14273,
+    "C": 13550,
+    "APP": 9875,
+    "HELPER": 12500
+  },
+  "eff": {
+    "A": 85,
+    "B": 75,
+    "C": 65
+  },
+  "features": {
+    "t_eff": true,
+    "t_target": true,
+    "t_takt": true,
+    "t_bal": true,
+    "t_ts": true,
+    "t_grade": true,
+    "t_cap": true,
+    "t_capq": true,
+    "t_man": true,
+    "t_abs": true,
+    "t_dhu": true,
+    "t_line": true,
+    "g_build": true,
+    "t_hub": true,
+    "t_gamezone": true
+  },
+  "announce": {
+    "en": "",
+    "bn": ""
+  }
+}
